@@ -1,7 +1,8 @@
 # Biblioteca
 Projeto Final da materia de Programação Orientada a Objetos (POO)
 - Controle de Biblioteca Pessoal 
-
+- Entregue 25/06/2021
+  
 # Execução 
 Cadastrando um item do tipo livro
 ~~~~java
@@ -48,7 +49,7 @@ J.R.R.Tolkien
 Cadastrado com Sucesso!!
 ~~~~
 
-Escolhendo a opção 7 o output é:
+Escolhendo a opção 7 (listar biblioteca) o output é:
 ~~~Java
 --- Objetos na Biblioteca ---
 |Disponibilidade        |Nome
